@@ -1,1 +1,1 @@
-print("Readme.md by student B")
+print("This is my marks.py")
